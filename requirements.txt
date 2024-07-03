@@ -1,0 +1,6 @@
+cupy==13.2.0
+matplotlib==3.9.0
+napari==0.4.19.post1
+numpy==2.0.0
+scipy==1.14.0
+skimage==0.0
